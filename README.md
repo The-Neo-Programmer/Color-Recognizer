@@ -13,8 +13,8 @@ A program that provides coordinates for a particular color in the frame and crea
 # Clone the repository
 '''bash
 
-git clone https://github.com/The-Neo-Programmer/Color-Recogniser.git
-cd Color-Recogniser
+- git clone https://github.com/The-Neo-Programmer/Color-Recogniser.git
+- cd Color-Recogniser
 
 # Install the requirements file
 - Run the following command in your preferred CMD.
